@@ -1,0 +1,26 @@
+{
+  "name": "alekhwa-comming-soon",
+  "version": "1.0.0",
+  "description": "alekhwa company",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alialghanay/alekhwa-comming-soon.git"
+  },
+  "keywords": [
+    "alekhwa",
+    "adverting"
+  ],
+  "author": "alialghanay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alialghanay/alekhwa-comming-soon/issues"
+  },
+  "homepage": "https://github.com/alialghanay/alekhwa-comming-soon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
