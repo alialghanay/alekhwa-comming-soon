@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/alialghanay/alekhwa-comming-soon#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   }
 }
