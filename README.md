@@ -12,6 +12,10 @@ We quickly built a prototype and delivered it, thinking we were off to a great s
 
 This repository is a testament to our first experience as a development team. Though the project never saw the light of day, it was a stepping stone in our journey. It represents our passion, our lessons learned, and the start of something bigger.
 
+## Demo
+
+![Project Demo](img/demo.gif)
+
 ## Project Structure
 
 ```
