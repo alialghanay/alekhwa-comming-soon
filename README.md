@@ -93,10 +93,6 @@ This project taught us:
 
 Although this project was never completed, it laid the groundwork for our future endeavors. We took what we learned and applied it to bigger and better projects.
 
-## Contributions
-
-If you find this repository useful or want to contribute, feel free to open an issue or submit a pull request!
-
 ## License
 
 MIT
